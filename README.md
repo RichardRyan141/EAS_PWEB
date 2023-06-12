@@ -9,4 +9,6 @@ NRP : 5025211141
 5) Klik import dan import file e-learning.sql  
 6) Buka localhost/nama folder/home.php untuk mencoba  
 
+Akun testing user : (Username, Password) = (Ryan, Ryan)  
+
 Terimakasih
